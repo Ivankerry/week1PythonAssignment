@@ -19,8 +19,8 @@ def calculate(num1, num2, operation):
 def main():
     # Get user input
     try:
-        num1 = float(input("Enter the first number: "))
-        num2 = float(input("Enter the second number: "))
+        num1 = float(input("Enter the first number : "))
+        num2 = float(input("Enter the second number : "))
         operation = input("Enter the operation (+, -, *, /): ")
 
         # Calculate the result
